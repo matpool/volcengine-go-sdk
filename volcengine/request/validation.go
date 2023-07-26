@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 const (

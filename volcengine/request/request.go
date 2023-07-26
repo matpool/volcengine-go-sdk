@@ -12,13 +12,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/custom"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/response"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/custom"
+	"github.com/matpool/volcengine-go-sdk/volcengine/response"
 
-	"github.com/volcengine/volcengine-go-sdk/internal/sdkio"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client/metadata"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/internal/sdkio"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client/metadata"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 const (

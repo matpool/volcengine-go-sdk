@@ -11,11 +11,11 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/response"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/special"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/response"
+	"github.com/matpool/volcengine-go-sdk/volcengine/special"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineutil"
 )
 
 // UnmarshalHandler is a named request handler for unmarshaling volcenginequery protocol requests

@@ -18,13 +18,13 @@ import (
 	"os"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/corehandlers"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials/endpointcreds"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/corehandlers"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials/endpointcreds"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // A Defaults provides a collection of default values for SDK clients.

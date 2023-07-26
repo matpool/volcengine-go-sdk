@@ -3,7 +3,7 @@ package volcengine
 // Copy from https://github.com/aws/aws-sdk-go
 // May have been modified by Beijing Volcanoengine Technology Ltd.
 
-import "github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+import "github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 
 var (
 	// ErrMissingRegion is an error that is returned if region configuration is

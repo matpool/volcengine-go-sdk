@@ -4,8 +4,8 @@ package request
 // May have been modified by Beijing Volcanoengine Technology Ltd.
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/custom"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/custom"
 )
 
 // setContext updates the Request to use the passed in context for cancellation.

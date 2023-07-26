@@ -4,7 +4,7 @@ package credentials
 // May have been modified by Beijing Volcanoengine Technology Ltd.
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // StaticProviderName provides a name of Static provider

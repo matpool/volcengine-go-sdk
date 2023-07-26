@@ -4,10 +4,10 @@ package cenexample
 import (
 	"fmt"
 
-	"github.com/volcengine/volcengine-go-sdk/service/cen"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/session"
+	"github.com/matpool/volcengine-go-sdk/service/cen"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/session"
 )
 
 func CreateCen() {

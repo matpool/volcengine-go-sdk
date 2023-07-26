@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // Retryer provides the interface drive the SDK's request retry behavior. The

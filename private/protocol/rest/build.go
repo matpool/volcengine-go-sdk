@@ -17,10 +17,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // Whether the byte value can be sent without escaping in VOLCSTACK URLs

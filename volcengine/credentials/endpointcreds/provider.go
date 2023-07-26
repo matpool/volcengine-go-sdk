@@ -7,13 +7,13 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol/json/jsonutil"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client/metadata"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/private/protocol/json/jsonutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client/metadata"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // ProviderName is the name of the credentials provider.

@@ -3,13 +3,13 @@
 package clb
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client/metadata"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/corehandlers"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/signer/volc"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcenginequery"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client/metadata"
+	"github.com/matpool/volcengine-go-sdk/volcengine/corehandlers"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/signer/volc"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcenginequery"
 )
 
 // CLB provides the API operation methods for making requests to

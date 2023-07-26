@@ -4,10 +4,10 @@ package autoscalingexample
 import (
 	"fmt"
 
-	"github.com/volcengine/volcengine-go-sdk/service/autoscaling"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/session"
+	"github.com/matpool/volcengine-go-sdk/service/autoscaling"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/session"
 )
 
 func ModifyScalingPolicy() {

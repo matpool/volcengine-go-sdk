@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 const (

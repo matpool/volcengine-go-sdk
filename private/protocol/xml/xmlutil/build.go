@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
 )
 
 // BuildXML will serialize params into an xml.Encoder. Error will be returned

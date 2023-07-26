@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/internal/sdkrand"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/internal/sdkrand"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // DefaultRetryer implements basic retry logic using exponential backoff for

@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 var timeoutErr = volcengineerr.New(

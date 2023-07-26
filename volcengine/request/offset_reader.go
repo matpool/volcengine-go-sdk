@@ -7,7 +7,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/volcengine/volcengine-go-sdk/internal/sdkio"
+	"github.com/matpool/volcengine-go-sdk/internal/sdkio"
 )
 
 // offsetReader is a thread-safe io.ReadCloser to prevent racing

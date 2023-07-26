@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // UnmarshalXMLError unmarshals the XML error from the stream into the value

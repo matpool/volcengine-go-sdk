@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
 )
 
 // EscapeMode is the mode that should be use for escaping a value

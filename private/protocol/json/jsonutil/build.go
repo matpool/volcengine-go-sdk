@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
 )
 
 var timeType = reflect.ValueOf(time.Time{}).Type()

@@ -7,9 +7,9 @@ package query
 import (
 	"net/url"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol/query/queryutil"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/private/protocol/query/queryutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // BuildHandler is a named request handler for building volcenginequery protocol requests

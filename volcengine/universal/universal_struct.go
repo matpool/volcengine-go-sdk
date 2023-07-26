@@ -1,6 +1,6 @@
 package universal
 
-import "github.com/volcengine/volcengine-go-sdk/volcengine/session"
+import "github.com/matpool/volcengine-go-sdk/volcengine/session"
 
 type Universal struct {
 	Session *session.Session

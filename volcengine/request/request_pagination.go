@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"sync/atomic"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineutil"
 )
 
 // A Pagination provides paginating of SDK API operations which are paginatable.

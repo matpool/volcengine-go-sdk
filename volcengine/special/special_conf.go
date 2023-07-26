@@ -1,6 +1,6 @@
 package special
 
-import "github.com/volcengine/volcengine-go-sdk/volcengine/response"
+import "github.com/matpool/volcengine-go-sdk/volcengine/response"
 
 type ResponseSpecial func(response.VolcengineResponse, interface{}) interface{}
 

@@ -4,7 +4,7 @@ package defaults
 // May have been modified by Beijing Volcanoengine Technology Ltd.
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/internal/shareddefaults"
+	"github.com/matpool/volcengine-go-sdk/internal/shareddefaults"
 )
 
 // SharedCredentialsFilename returns the SDK's default file path

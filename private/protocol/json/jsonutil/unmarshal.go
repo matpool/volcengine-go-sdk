@@ -12,9 +12,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // UnmarshalJSONError unmarshal's the reader's JSON document into the passed in

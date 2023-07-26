@@ -1,10 +1,10 @@
 package volc
 
 import (
-	"github.com/volcengine/volc-sdk-golang/base"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/credentials"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/base"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/credentials"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 var SignRequestHandler = request.NamedHandler{

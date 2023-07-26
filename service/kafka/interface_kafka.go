@@ -9,8 +9,8 @@
 package kafka
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // KAFKAAPI provides an interface to enable mocking the

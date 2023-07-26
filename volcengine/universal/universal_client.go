@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client/metadata"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/corehandlers"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/session"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/signer/volc"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcenginequery"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client/metadata"
+	"github.com/matpool/volcengine-go-sdk/volcengine/corehandlers"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/session"
+	"github.com/matpool/volcengine-go-sdk/volcengine/signer/volc"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcenginequery"
 )
 
 func New(session *session.Session) *Universal {

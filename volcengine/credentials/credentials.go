@@ -56,8 +56,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/volcengine/volc-sdk-golang/base"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/base"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // AnonymousCredentials is an empty Credential object that can be used as

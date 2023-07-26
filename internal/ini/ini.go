@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // OpenFile takes a path to a given file, and will open  and parse

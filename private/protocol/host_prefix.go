@@ -6,7 +6,7 @@ package protocol
 import (
 	"strings"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // HostPrefixHandlerName is the handler name for the host prefix request

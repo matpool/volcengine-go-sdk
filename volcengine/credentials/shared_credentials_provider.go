@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/volcengine/volcengine-go-sdk/internal/ini"
-	"github.com/volcengine/volcengine-go-sdk/internal/shareddefaults"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/internal/ini"
+	"github.com/matpool/volcengine-go-sdk/internal/shareddefaults"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // SharedCredsProviderName provides a name of SharedCreds provider

@@ -10,13 +10,13 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/volcengine/volcengine-go-sdk/private/protocol"
-	"github.com/volcengine/volcengine-go-sdk/private/protocol/query/queryutil"
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/custom"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineutil"
+	"github.com/matpool/volcengine-go-sdk/private/protocol"
+	"github.com/matpool/volcengine-go-sdk/private/protocol/query/queryutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/custom"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineutil"
 )
 
 func BodyParam(body *url.Values, r *request.Request) {

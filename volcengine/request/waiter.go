@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineutil"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineerr"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineerr"
 )
 
 // WaiterResourceNotReadyErrorCode is the error code returned by a waiter when

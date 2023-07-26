@@ -3,10 +3,10 @@
 package rdsmysqlv2
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/response"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/volcengineutil"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/response"
+	"github.com/matpool/volcengine-go-sdk/volcengine/volcengineutil"
 )
 
 const opModifyDBEndpointAddressCommon = "ModifyDBEndpointAddress"

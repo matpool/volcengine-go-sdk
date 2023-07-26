@@ -9,8 +9,8 @@
 package directconnect
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // DIRECTCONNECTAPI provides an interface to enable mocking the

@@ -6,9 +6,9 @@ package client
 import (
 	"fmt"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/client/metadata"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine"
+	"github.com/matpool/volcengine-go-sdk/volcengine/client/metadata"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // A Config provides configuration to a service client instance.

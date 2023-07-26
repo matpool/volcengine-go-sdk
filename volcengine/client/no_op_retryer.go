@@ -6,7 +6,7 @@ package client
 import (
 	"time"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // NoOpRetryer provides a retryer that performs no retries.

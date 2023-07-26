@@ -1,8 +1,8 @@
 package corehandlers
 
 import (
-	"github.com/volcengine/volcengine-go-sdk/volcengine/custom"
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/custom"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 var CustomerRequestHandler = request.NamedHandler{

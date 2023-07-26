@@ -7,7 +7,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/volcengine/volcengine-go-sdk/volcengine/request"
+	"github.com/matpool/volcengine-go-sdk/volcengine/request"
 )
 
 // UnmarshalDiscardBodyHandler is a named request handler to empty and close a response's volcenginebody
